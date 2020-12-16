@@ -3,7 +3,7 @@
   :author "Tokuya Kameshima"
   :license "MIT"
   :depends-on ("jonathan"
-               "ppcre")
+               "cl-ppcre")
   :components ((:module "src"
                 :components
                 ((:file "json-helper"))))
